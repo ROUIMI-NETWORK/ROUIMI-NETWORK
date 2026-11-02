@@ -12,6 +12,7 @@
 👉 **[rouimi-network-resources](https://github.com/ROUIMI-NETWORK/rouimi-network-resources)**: فيه 37 carousel و PDF guides:
 - 🗺️ Network Engineer Roadmap
 - 🚨 8 Incident Response Playbooks
+- 🔥 Checklist Audit Firewall FortiGate: 139 controls (PDF + Excel)
 - 🌐 Fiber & SFP، Subnetting، DNS، OSI، BGP
 - 💼 Entretien IT، 15 Projets PFE، CV، LinkedIn
 
